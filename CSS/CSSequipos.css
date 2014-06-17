@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+h3 {text-shadow:1px 0px #000000; background-color:#099;}
+
+h4 {text-shadow:1px 0px #000000; background-color:#C36;}
+
+h5 { background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#840034), to(#210066))}
+
+#centro {background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#FFFC00), to(#FF0028))}
+
+#div1tabla {width:50% ; height:auto ; background-color:#09F; text-align:center ; text-shadow:1px 0px #000; }
+
+#div2tabla {width:100% ; height:auto ; text-align:center;text-shadow:1px 0px #000;}
+
+#listview {text-align:center;}
+
+#divtextofut {text-align:justify; background-color:#666 ; width:80%; height:auto; text-shadow:1px 0px #000;}
+
+#divtextofut1 {text-align:justify; background-color:#36C ; width:80%; height:auto; text-shadow:1px 0px #000;}
+
+#divtextofut2 {text-align:justify; background-color:#36C ; width:80%; height:auto; text-shadow:1px 0px #000;}
+
+#divtextofut3 {text-align:justify; background-color:#FC6; width:80%; height:auto; text-shadow:1px 0px #000;}
+
+#content {background-color:#069;}
+
+#content2 {background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#FFFC00), to(#FF0028))}
+
+#divprincipal { text-shadow:1px 0px #000; width:100% ; height:auto;}
+
+#contenidos { text-shadow:1px 0px #000; width:90% ; height:auto; background-color:#096; text-align:center; }
+
+#lalista
+{width:80%; margin-left:10%;}
+
+#bayerhistoria {background-color:#C96 ; text-align:center; text-shadow:1px 0px #000;}
